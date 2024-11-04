@@ -17,7 +17,7 @@
 
 ###
 
-<img align="left" height="150" src="https://cdn.discordapp.com/attachments/630212456479850508/1287807572224643142/image.png?ex=66f4de03&is=66f38c83&hm=b66bd7fc7ec7ce61543374f5da17f9873a13c12f2c12ffd9de8aef1b38c59b5b&"  />
+<img align="left" height="150" src="https://imgur.com/a/gLJ52yO"  />
 
 ###
 
