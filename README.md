@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">- 🎮 Game Developer atualmente trabalhando na Piloto Studio<br>- 🔥 Desenvolvendo e criando conteúdo sobre o meu projeto autoral, O Playground Rumble<br>- 📚 Em breve, estarei criando conteúdo didático sobre Unity Engine<br>- 🕹️ Fã de Game Jams, onde posso explorar ideias malucas e testar novos conceitos de jogo</p>
+<p align="left">- 🎮 Game Developer<br>- 🔥 Desenvolvendo e criando conteúdo sobre o meu projeto autoral, O Playground Rumble<br>- 📚 Em breve, estarei criando conteúdo didático sobre Unity Engine<br>- 🕹️ Fã de Game Jams, onde posso explorar ideias malucas e testar novos conceitos de jogo</p>
 
 ###
 
