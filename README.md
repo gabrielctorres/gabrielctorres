@@ -4,7 +4,6 @@
 
 - 🎮 Game Developer
 - 🔥 Desenvolvendo e criando conteúdo sobre meu projeto autoral, O Playground Rumble
-- 📚 Em breve, estarei criando conteúdo didático sobre Unity Engine
 - 🕹️ Fã de Game Jams, onde posso explorar ideias malucas e testar novos conceitos de jogo
 
 <div align="center">
